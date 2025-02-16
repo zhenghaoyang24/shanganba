@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/demo/bar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/demo/bar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/demo/foo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/demo/foo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/preview/custom-component.example.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/preview/custom-component.example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/preview/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/preview/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +82,7 @@
       <workItem from="1739684805918" duration="122000" />
       <workItem from="1739684941585" duration="30000" />
       <workItem from="1739687627476" duration="609000" />
-      <workItem from="1739688315329" duration="312000" />
+      <workItem from="1739688315329" duration="568000" />
     </task>
     <servers />
   </component>
