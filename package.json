@@ -1,0 +1,27 @@
+{
+  "name": "shanganba",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "考公，考编知识点。",
+  "packageManager": "pnpm@9.15.1",
+  "author": "zhenghaoyang24 <zhenghaoyang24@foxmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^18.20.0 || >=20.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.19",
+    "vuepress": "2.0.0-rc.19",
+    "vuepress-theme-plume": "1.0.0-rc.130",
+    "http-server": "^14.1.1",
+    "vue": "^3.5.13",
+    "sass-embedded": "^1.83.4"
+  }
+}
