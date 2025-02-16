@@ -1,0 +1,55 @@
+{
+  "hash": "3e11ef4f",
+  "configHash": "4c4234ce",
+  "lockfileHash": "6f6f2223",
+  "browserHash": "e8856cd7",
+  "optimized": {
+    "mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "mark__js_src_vanilla__js.js",
+      "fileHash": "be9e4e37",
+      "needsInterop": false
+    },
+    "@vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@12.7.0_focus-trap@7.6.4_typescript@5.7.3/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "7377d142",
+      "needsInterop": false
+    },
+    "minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@7.1.1/node_modules/minisearch/dist/es/index.js",
+      "file": "minisearch.js",
+      "fileHash": "20a0df88",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.7.2/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "1576ca41",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.19/node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "7ef0415c",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.13_typescript@5.7.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "3694e15d",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/.pnpm/vue-router@4.5.0_vue@3.5.13_typescript@5.7.3_/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "ccf6578a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3MB4FZ2E": {
+      "file": "chunk-3MB4FZ2E.js"
+    }
+  }
+}
