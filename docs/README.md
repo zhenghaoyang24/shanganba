@@ -8,15 +8,11 @@ config:
     background: tint-plate
     hero:
       name: 上岸吧
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      tagline: 一个面向公务员考试、事业单位考试备考人群的文档
+      text: 包含考前须知、备考建议、知识点总结等内容。希望你能够通过本项目快速了解考公考编，找到适合自己的考试目标，早日上岸！
       actions:
         -
           theme: brand
-          text: 博客
+          text: 我要上岸！
           link: /blog/
-        -
-          theme: alt
-          text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---

@@ -5,7 +5,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'shanganba',
+  title: '上岸吧',
   description: '考公，考编知识点。',
 
   head: [

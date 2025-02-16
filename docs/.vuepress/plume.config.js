@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'shanganba',
-    description: '考公，考编知识点。',
+    name: '上岸吧',
+    description: '这是一个面向公务员考试、事业单位考试人群的开源项目，包含考前须知、备考建议、知识点总结等内容。希望你能够通过本项目快速了解考公考编，找到适合自己的考试目标，早日上岸！',
     // circle: true,
     // location: '',
     // organization: '',
