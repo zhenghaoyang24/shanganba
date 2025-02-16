@@ -1,9 +1,10 @@
-export const redirects = JSON.parse("{\"/preview/custom-component.example.html\":\"/article/xi31zf7t/\",\"/preview/markdown.html\":\"/article/255pkrd3/\",\"/notes/demo/bar.html\":\"/demo/r4myo8jp/\",\"/notes/demo/foo.html\":\"/demo/kaa9yebg/\",\"/notes/demo/\":\"/demo/\"}")
+export const redirects = JSON.parse("{\"/preview/custom-component.example.html\":\"/article/xi31zf7t/\",\"/preview/markdown.html\":\"/article/255pkrd3/\",\"/notes/prepare/\":\"/prepare/\",\"/notes/demo/bar.html\":\"/demo/r4myo8jp/\",\"/notes/demo/foo.html\":\"/demo/kaa9yebg/\",\"/notes/demo/\":\"/demo/\"}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
   ["/article/xi31zf7t/", { loader: () => import(/* webpackChunkName: "article_xi31zf7t_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/article/xi31zf7t/index.html.js"), meta: {"title":"自定义组件"} }],
   ["/article/255pkrd3/", { loader: () => import(/* webpackChunkName: "article_255pkrd3_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/article/255pkrd3/index.html.js"), meta: {"title":"Markdown"} }],
+  ["/prepare/", { loader: () => import(/* webpackChunkName: "prepare_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/index.html.js"), meta: {"title":"考前须知"} }],
   ["/demo/r4myo8jp/", { loader: () => import(/* webpackChunkName: "demo_r4myo8jp_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/demo/r4myo8jp/index.html.js"), meta: {"title":"bar"} }],
   ["/demo/kaa9yebg/", { loader: () => import(/* webpackChunkName: "demo_kaa9yebg_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/demo/kaa9yebg/index.html.js"), meta: {"title":"foo"} }],
   ["/demo/", { loader: () => import(/* webpackChunkName: "demo_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/demo/index.html.js"), meta: {"title":"Demo"} }],
