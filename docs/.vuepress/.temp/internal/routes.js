@@ -1,9 +1,10 @@
-export const redirects = JSON.parse("{\"/notes/prepare/\":\"/prepare/\"}")
+export const redirects = JSON.parse("{\"/notes/prepare/%E4%B8%BA%E4%BB%80%E4%B9%88.html\":\"/prepare/nag2emfx/\",\"/notes/choice/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E6%88%90%E8%AF%AD%E5%AF%BC%E8%88%AA.html\":\"/choice/cydaohang/\",\"/notes/choice/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD.html\":\"/choice/nageemfx/\"}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
-  ["/notes/choice/", { loader: () => import(/* webpackChunkName: "notes_choice_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/notes/choice/index.html.js"), meta: {"title":""} }],
-  ["/prepare/", { loader: () => import(/* webpackChunkName: "prepare_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/index.html.js"), meta: {"title":"考前须知"} }],
+  ["/prepare/nag2emfx/", { loader: () => import(/* webpackChunkName: "prepare_nag2emfx_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/nag2emfx/index.html.js"), meta: {"title":"考前须知"} }],
+  ["/choice/cydaohang/", { loader: () => import(/* webpackChunkName: "choice_cydaohang_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/cydaohang/index.html.js"), meta: {"title":"成语导航"} }],
+  ["/choice/nageemfx/", { loader: () => import(/* webpackChunkName: "choice_nageemfx_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/nageemfx/index.html.js"), meta: {"title":"高频成语"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
   ["/blog/", { loader: () => import(/* webpackChunkName: "blog_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/blog/index.html.js"), meta: {"title":"博客"} }],
   ["/blog/tags/", { loader: () => import(/* webpackChunkName: "blog_tags_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/blog/tags/index.html.js"), meta: {"title":"标签"} }],
