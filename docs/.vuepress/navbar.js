@@ -7,6 +7,6 @@ export const navbar = defineNavbarConfig([
   },
   {
     text: '行测 / 行测',
-    link: '/notes/prepare/README.md'
+    link: '/notes/choice/README.md'
   },
 ])
