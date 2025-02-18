@@ -1,5 +1,5 @@
 import comp from "G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/why/index.html.vue"
-const data = JSON.parse("{\"path\":\"/prepare/why/\",\"title\":\"考前须知\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"考前须知\",\"createTime\":\"2025/02/16 20:45:48\",\"permalink\":\"/prepare/why/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.04,\"words\":12},\"filePathRelative\":\"notes/prepare/为什么.md\"}")
+const data = JSON.parse("{\"path\":\"/prepare/why/\",\"title\":\"为什么要进入体制内\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"为什么要进入体制内\",\"createTime\":\"2025/02/16 20:45:48\",\"permalink\":\"/prepare/why/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":1.59,\"words\":478},\"filePathRelative\":\"notes/prepare/1.为什么要进入体制内.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

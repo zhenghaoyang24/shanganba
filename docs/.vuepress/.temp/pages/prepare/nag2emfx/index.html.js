@@ -1,5 +1,5 @@
 import comp from "G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/nag2emfx/index.html.vue"
-const data = JSON.parse("{\"path\":\"/prepare/nag2emfx/\",\"title\":\"考前须知\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"考前须知\",\"createTime\":\"2025/02/16 20:45:48\",\"permalink\":\"/prepare/nag2emfx/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.07,\"words\":20},\"filePathRelative\":\"notes/prepare/为什么.md\"}")
+const data = JSON.parse("{\"path\":\"/prepare/nag2emfx/\",\"title\":\"为什么要进入体制内\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"为什么要进入体制内\",\"createTime\":\"2025/02/16 20:45:48\",\"permalink\":\"/prepare/nag2emfx/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":1.59,\"words\":478},\"filePathRelative\":\"notes/prepare/1.为什么要进入体制内.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

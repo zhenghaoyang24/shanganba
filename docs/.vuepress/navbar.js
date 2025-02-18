@@ -3,11 +3,11 @@ import {defineNavbarConfig} from 'vuepress-theme-plume'
 export const navbar = defineNavbarConfig([
     {
         text: '考前须知',
-        link: '/notes/prepare/为什么'
+        link: '/prepare/why/'
     },
     {
         text: '行测 / 职测',
-        link: '/notes/choice/介绍'
+        link: '/choice/introduce/'
     },
     {
         text: '考前比记',

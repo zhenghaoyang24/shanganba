@@ -1,9 +1,11 @@
-export const redirects = JSON.parse("{\"/notes/choice/%E4%BB%8B%E7%BB%8D.html\":\"/choice/awcrsw15/\",\"/notes/prepare/%E4%B8%BA%E4%BB%80%E4%B9%88.html\":\"/prepare/nag2emfx/\",\"/notes/remember/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E6%88%90%E8%AF%AD%E5%AF%BC%E8%88%AA.html\":\"/choice/cydaohang/\",\"/notes/remember/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD.html\":\"/remember/nageemfx/\",\"/notes/prepare/%E8%A1%8C%E6%B5%8B%E4%B8%8E%E8%81%8C%E6%B5%8B%E7%9A%84%E5%8C%BA%E5%88%AB.html\":\"/prepare/ezyvvrta/\"}")
+export const redirects = JSON.parse("{\"/notes/choice/1.%E4%BB%8B%E7%BB%8D.html\":\"/choice/introduce/\",\"/notes/prepare/1.%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BF%9B%E5%85%A5%E4%BD%93%E5%88%B6%E5%86%85.html\":\"/prepare/why/\",\"/notes/prepare/2.%E8%A1%8C%E6%B5%8B%E4%B8%8E%E8%81%8C%E6%B5%8B%E7%9A%84%E5%8C%BA%E5%88%AB.html\":\"/prepare/ezyvvrta/\",\"/notes/choice/2.%E8%A8%80%E8%AF%AD%E7%90%86%E8%A7%A3/%E7%89%87%E6%AE%B5%E9%98%85%E8%AF%BB.html\":\"/choice/y18glm0l/\",\"/notes/remember/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E6%88%90%E8%AF%AD%E5%AF%BC%E8%88%AA.html\":\"/choice/cydaohang/\",\"/notes/remember/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD/%E9%AB%98%E9%A2%91%E6%88%90%E8%AF%AD.html\":\"/remember/nageemfx/\"}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
-  ["/choice/awcrsw15/", { loader: () => import(/* webpackChunkName: "choice_awcrsw15_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/awcrsw15/index.html.js"), meta: {"title":"介绍"} }],
-  ["/prepare/nag2emfx/", { loader: () => import(/* webpackChunkName: "prepare_nag2emfx_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/nag2emfx/index.html.js"), meta: {"title":"考前须知"} }],
+  ["/choice/introduce/", { loader: () => import(/* webpackChunkName: "choice_introduce_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/introduce/index.html.js"), meta: {"title":"介绍"} }],
+  ["/prepare/why/", { loader: () => import(/* webpackChunkName: "prepare_why_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/why/index.html.js"), meta: {"title":"为什么要进入体制内"} }],
+  ["/prepare/ezyvvrta/", { loader: () => import(/* webpackChunkName: "prepare_ezyvvrta_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.js"), meta: {"title":"行测与职测的区别"} }],
+  ["/choice/y18glm0l/", { loader: () => import(/* webpackChunkName: "choice_y18glm0l_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/y18glm0l/index.html.js"), meta: {"title":"片段阅读"} }],
   ["/choice/cydaohang/", { loader: () => import(/* webpackChunkName: "choice_cydaohang_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/choice/cydaohang/index.html.js"), meta: {"title":"成语导航"} }],
   ["/remember/nageemfx/", { loader: () => import(/* webpackChunkName: "remember_nageemfx_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/remember/nageemfx/index.html.js"), meta: {"title":"高频成语"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
@@ -11,7 +13,6 @@ export const routes = Object.fromEntries([
   ["/blog/tags/", { loader: () => import(/* webpackChunkName: "blog_tags_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/blog/tags/index.html.js"), meta: {"title":"标签"} }],
   ["/blog/archives/", { loader: () => import(/* webpackChunkName: "blog_archives_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/blog/archives/index.html.js"), meta: {"title":"归档"} }],
   ["/blog/categories/", { loader: () => import(/* webpackChunkName: "blog_categories_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/blog/categories/index.html.js"), meta: {"title":"分类"} }],
-  ["/prepare/ezyvvrta/", { loader: () => import(/* webpackChunkName: "prepare_ezyvvrta_index.html" */"G:/200-Project/shanganba/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.js"), meta: {"title":"行测与职测的区别"} }],
 ]);
 
 if (import.meta.webpackHot) {
