@@ -14,5 +14,5 @@ config:
         -
           theme: brand
           text: 我要上岸！
-          link: /blog/
+          link: /notes/prepare/为什么
 ---
