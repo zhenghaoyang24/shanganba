@@ -12,7 +12,7 @@ export const navbar = defineNavbarConfig([
     {
         text: '考前比记',
         items: [
-            {text: '高频成语', link: '/notes/remember/高频成语/成语导航'}
+            {text: '高频成语', link: '/remember/cydaohang/'}
         ]
     },
 ])
