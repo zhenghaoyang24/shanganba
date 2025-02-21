@@ -1,5 +1,5 @@
 import comp from "G:/200-Project/shanganba/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.vue"
-const data = JSON.parse("{\"path\":\"/remember/cydaohang/\",\"title\":\"成语导航\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"成语导航\",\"createTime\":\"2025/02/17 19:56:15\",\"permalink\":\"/remember/cydaohang/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.12,\"words\":35},\"filePathRelative\":\"notes/remember/高频成语/1.成语导航.md\"}")
+const data = JSON.parse("{\"path\":\"/remember/cydaohang/\",\"title\":\"成语导航\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"成语导航\",\"createTime\":\"2025/02/17 19:56:15\",\"permalink\":\"/remember/cydaohang/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":0.21,\"words\":64},\"filePathRelative\":\"notes/remember/高频成语/1.成语导航.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
