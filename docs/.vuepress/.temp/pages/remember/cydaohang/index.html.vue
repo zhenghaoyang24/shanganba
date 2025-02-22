@@ -7,16 +7,24 @@
 <p><RouteLink to="/remember/cyinnovate/#%E9%99%88%E9%99%88%E7%9B%B8%E5%9B%A0">陈陈相因</RouteLink></p>
 <h2 id="d" tabindex="-1"><a class="header-anchor" href="#d"><span>d</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E7%8B%AC%E6%A0%91%E4%B8%80%E5%B8%9C">独树一帜</RouteLink></p>
+<h2 id="f" tabindex="-1"><a class="header-anchor" href="#f"><span>f</span></a></h2>
+<p><RouteLink to="/remember/cysituation/#%E9%A3%8E%E9%9B%A8%E9%A3%98%E6%91%87">风雨飘摇</RouteLink></p>
 <h2 id="g" tabindex="-1"><a class="header-anchor" href="#g"><span>g</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E5%9B%BA%E6%AD%A5%E8%87%AA%E5%B0%81">固步自封</RouteLink> <RouteLink to="/remember/cyinnovate/#%E9%9D%A9%E6%95%85%E9%BC%8E%E6%96%B0">革故鼎新</RouteLink></p>
 <h2 id="j" tabindex="-1"><a class="header-anchor" href="#j"><span>j</span></a></h2>
-<p><RouteLink to="/remember/cyculture/#%E5%85%BC%E6%94%B6%E5%B9%B6%E8%93%84">兼收并蓄</RouteLink> <RouteLink to="/remember/cyinnovate/#%E5%8C%A0%E5%BF%83%E7%8B%AC%E8%BF%90">匠心独运</RouteLink></p>
+<p><RouteLink to="/remember/cysituation/#%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0">举步维艰</RouteLink> <RouteLink to="/remember/cysituation/#%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1">岌岌可危</RouteLink> <RouteLink to="/remember/cyculture/#%E5%85%BC%E6%94%B6%E5%B9%B6%E8%93%84">兼收并蓄</RouteLink> <RouteLink to="/remember/cysituation/#%E8%BF%9B%E9%80%80%E7%BB%B4%E8%B0%B7">进退维谷</RouteLink> <RouteLink to="/remember/cyinnovate/#%E5%8C%A0%E5%BF%83%E7%8B%AC%E8%BF%90">匠心独运</RouteLink></p>
 <h2 id="l" tabindex="-1"><a class="header-anchor" href="#l"><span>l</span></a></h2>
 <p><RouteLink to="/remember/cyculture/#%E5%8E%86%E4%B9%85%E5%BC%A5%E6%96%B0">历久弥新</RouteLink> <RouteLink to="/remember/cyinnovate/#%E5%8F%A6%E8%BE%9F%E8%B9%8A%E5%BE%84">另辟蹊径</RouteLink></p>
+<h2 id="n" tabindex="-1"><a class="header-anchor" href="#n"><span>n</span></a></h2>
+<p><RouteLink to="/remember/cysituation/#%E9%9A%BE%E4%BB%A5%E4%B8%BA%E7%BB%A7">难以为继</RouteLink></p>
+<h2 id="q" tabindex="-1"><a class="header-anchor" href="#q"><span>q</span></a></h2>
+<p><RouteLink to="/remember/cysituation/#%E9%AA%91%E8%99%8E%E9%9A%BE%E4%B8%8B">骑虎难下</RouteLink></p>
 <h2 id="s" tabindex="-1"><a class="header-anchor" href="#s"><span>s</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E9%A3%9F%E5%8F%A4%E4%B8%8D%E5%8C%96">食古不化</RouteLink></p>
 <h2 id="t" tabindex="-1"><a class="header-anchor" href="#t"><span>t</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E6%8E%A8%E9%99%88%E5%87%BA%E6%96%B0">推陈出新</RouteLink> <RouteLink to="/remember/cyinnovate/#%E5%90%90%E6%95%85%E7%BA%B3%E6%96%B0">吐故纳新</RouteLink></p>
+<h2 id="w" tabindex="-1"><a class="header-anchor" href="#w"><span>w</span></a></h2>
+<p><RouteLink to="/remember/cysituation/#%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5">危如累卵</RouteLink></p>
 <h2 id="x" tabindex="-1"><a class="header-anchor" href="#x"><span>x</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E5%BE%AA%E8%A7%84%E8%B9%88%E7%9F%A9">循规蹈矩</RouteLink> <RouteLink to="/remember/cyculture/#%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0">薪火相传</RouteLink></p>
 <h2 id="y" tabindex="-1"><a class="header-anchor" href="#y"><span>y</span></a></h2>
