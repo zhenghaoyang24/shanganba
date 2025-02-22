@@ -10,15 +10,15 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/0d75b8e0" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/0d75b8e0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/_metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/cf4cf5bc" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/cf4cf5bc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/lkhn79kt/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/lkhn79kt/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/lkhn79kt/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/lkhn79kt/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/1.成语导航.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/高频成语/1.成语导航.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/文化相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/高频成语/文化相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/高频成语.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "npm.docs:dev.executor": "Run",
+    "settings.editor.selected.configurable": "Code Search",
     "ts.external.directory.path": "G:\\200-Project\\shanganba\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -118,7 +119,8 @@
       <workItem from="1739937038534" duration="63000" />
       <workItem from="1739962984588" duration="276000" />
       <workItem from="1739963897860" duration="497000" />
-      <workItem from="1740145323901" duration="2372000" />
+      <workItem from="1740145323901" duration="2471000" />
+      <workItem from="1740190096064" duration="3591000" />
     </task>
     <servers />
   </component>
