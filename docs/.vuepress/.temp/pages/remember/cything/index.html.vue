@@ -80,7 +80,7 @@
 <hr>
 <h3 id="偃旗息鼓" tabindex="-1"><a class="header-anchor" href="#偃旗息鼓"><span>偃旗息鼓</span></a></h3>
 <p>比喻事情终止或声势减弱。</p>
-<p><em>例句：</em> 经过一夜的激战，敌军终于偃旗息鼓，撤出了战场。</p>
+<p><em>例句：</em> 赤壁之战打完，天下形势更加明朗了，曹操退守北方，暂时只能<strong>偃旗息鼓</strong>。</p>
 <hr>
 </div></template>
 

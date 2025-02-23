@@ -32,8 +32,7 @@
 <h2 id="x" tabindex="-1"><a class="header-anchor" href="#x"><span>x</span></a></h2>
 <p><RouteLink to="/remember/cyinnovate/#%E5%BE%AA%E8%A7%84%E8%B9%88%E7%9F%A9">循规蹈矩</RouteLink> <RouteLink to="/remember/cyculture/#%E8%96%AA%E7%81%AB%E7%9B%B8%E4%BC%A0">薪火相传</RouteLink></p>
 <h2 id="y" tabindex="-1"><a class="header-anchor" href="#y"><span>y</span></a></h2>
-<p><RouteLink to="/remember/cything/#%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B">雨后春笋</RouteLink> <RouteLink to="/remember/cything/#%E5%BC%82%E5%86%9B%E7%AA%81%E8%B5%B7">异军突起</RouteLink> <RouteLink to="/remember/cyculture/#%E4%B8%80%E8%84%89%E7%9B%B8%E6%89%BF">一脉相承</RouteLink> <RouteLink to="/remember/cything/#%E5%81%83%E6%97%97%E6%81%AF%E9%BC%93">偃旗息鼓</RouteLink> <RouteLink to="/remember/cything/#%E4%B8%80%E6%97%A5%E5%8D%83%E9%87%8C">一日千里</RouteLink> <RouteLink to="/remember/cyculture/#%E6%BA%90%E8%BF%9C%E6%B5%81%E9%95%BF">源远流长</RouteLink><br>
-<RouteLink to="/remember/cything/#%E5%BA%94%E8%BF%90%E8%80%8C%E7%94%9F">应运而生</RouteLink></p>
+<p><RouteLink to="/remember/cything/#%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B">雨后春笋</RouteLink> <RouteLink to="/remember/cything/#%E5%BC%82%E5%86%9B%E7%AA%81%E8%B5%B7">异军突起</RouteLink> <RouteLink to="/remember/cyculture/#%E4%B8%80%E8%84%89%E7%9B%B8%E6%89%BF">一脉相承</RouteLink> <RouteLink to="/remember/cything/#%E5%81%83%E6%97%97%E6%81%AF%E9%BC%93">偃旗息鼓</RouteLink> <RouteLink to="/remember/cything/#%E4%B8%80%E6%97%A5%E5%8D%83%E9%87%8C">一日千里</RouteLink> <RouteLink to="/remember/cyculture/#%E6%BA%90%E8%BF%9C%E6%B5%81%E9%95%BF">源远流长</RouteLink> <RouteLink to="/remember/cything/#%E5%BA%94%E8%BF%90%E8%80%8C%E7%94%9F">应运而生</RouteLink></p>
 </div></template>
 
 
