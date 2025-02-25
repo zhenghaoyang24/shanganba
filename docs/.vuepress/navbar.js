@@ -7,7 +7,11 @@ export const navbar = defineNavbarConfig([
     },
     {
         text: '行测 / 职测',
-        link: '/choice/introduce/'
+        link: '/choice/introduction/'
+    },
+    {
+        text: '申论',
+        link: '/expound/introduction/'
     },
     {
         text: '考前比记',

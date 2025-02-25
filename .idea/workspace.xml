@@ -11,7 +11,11 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/1.成语导航.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/高频成语/1.成语导航.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/introduce/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/introduce/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/choice/1.介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/1.导言.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +140,11 @@
       <workItem from="1740318539098" duration="1315000" />
       <workItem from="1740361072914" duration="10000" />
       <workItem from="1740366404473" duration="5812000" />
-      <workItem from="1740407938360" duration="1208000" />
+      <workItem from="1740407938360" duration="1597000" />
+      <workItem from="1740450380875" duration="355000" />
+      <workItem from="1740458342139" duration="604000" />
+      <workItem from="1740460396383" duration="11000" />
+      <workItem from="1740464767561" duration="7339000" />
     </task>
     <servers />
   </component>

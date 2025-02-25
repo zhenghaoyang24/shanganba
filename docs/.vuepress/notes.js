@@ -18,8 +18,14 @@ const rememberNote = defineNoteConfig({
   sidebar: 'auto',
 })
 
+const expoundNote = defineNoteConfig({
+  dir: 'expound',
+  link: '/expound/',
+  sidebar: 'auto',
+})
+
 export const notes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [choiceNote,prepareNote,rememberNote],
+  notes: [choiceNote,prepareNote,rememberNote,expoundNote],
 })
