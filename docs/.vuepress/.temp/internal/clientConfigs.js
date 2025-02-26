@@ -4,10 +4,10 @@ import * as clientConfig2 from 'G:/200-Project/shanganba/node_modules/.pnpm/@vue
 import * as clientConfig3 from 'G:/200-Project/shanganba/node_modules/.pnpm/@vuepress-plume+plugin-search@1.0.0-rc.133_typescript@5.7.3_vuepress@2.0.0-rc.20_@vuepress+bu_25kmwqqwck5fqm57uyni42ct34/node_modules/@vuepress-plume/plugin-search/lib/client/config.js'
 import * as clientConfig4 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/internal/plugin-shiki/client.js'
 import * as clientConfig5 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/sass-palette/load-hope.js'
-import * as clientConfig6 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-power/config.js'
-import * as clientConfig7 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/markdown-math/config.js'
-import * as clientConfig8 from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.133_@algolia+client-search@5.20.3_less@4.2.2_markdown-it@14.1.0_x7v5ks5jgzzkiptc5gwavmq6je/node_modules/vuepress-theme-plume/lib/client/config.js'
-import * as clientConfig9 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-enhance/config.js'
+import * as clientConfig6 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-enhance/config.js'
+import * as clientConfig7 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-power/config.js'
+import * as clientConfig8 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/markdown-math/config.js'
+import * as clientConfig9 from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.133_@algolia+client-search@5.20.3_less@4.2.2_markdown-it@14.1.0_x7v5ks5jgzzkiptc5gwavmq6je/node_modules/vuepress-theme-plume/lib/client/config.js'
 import * as clientConfig10 from 'G:/200-Project/shanganba/docs/.vuepress/client.js'
 
 export const clientConfigs = [

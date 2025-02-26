@@ -1,19 +1,12 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: '上岸吧',
   description: '考公，考编知识点。',
-
-  plugins: [
-    mdEnhancePlugin({
-      // 启用 Markmap
-      markmap: true,
-    }),
-  ],
 
   head: [
     // 配置站点图标
@@ -76,13 +69,17 @@ export default defineUserConfig({
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
        */
-      // shiki: {
-      //   // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-      //   languages: ['shell', 'bash', 'typescript', 'javascript'],
-      //   twoslash: true, // 启用 twoslash
-      //   whitespace: true, // 启用 空格/Tab 高亮
-      //   lineNumbers: true, // 启用行号
-      // },
+      shiki: {
+        twoslash: true,
+        lineNumbers: 10,
+        // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
+        languages:['sh','ts','md', 'html', 'js','go', 'kotlin',
+          'rust','vue','css','json',
+          'scss', 'yaml', 'bash', 'c++', 'java', 'py', 'ruby', 'make', 'objc', 'swift', 'php', 'rs',
+          'astro','svelte','wasm',
+          'sql','xml','zig','pug','http','less','styl','jsx','tsx',
+          'vb','bat','cs','cpp','mermaid'],
+      },
 
       /* 本地搜索, 默认启用 */
       // search: true,
@@ -105,18 +102,22 @@ export default defineUserConfig({
        * markdown enhance
        * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
        */
-      // markdownEnhance: {
+      markdownEnhance: {
+        demo: true,
+        markmap: true,  // 导图插件
       //   chartjs: true,
       //   echarts: true,
       //   mermaid: true,
       //   flowchart: true,
-      // },
+      },
 
       /**
        *  markdown power
        * @see https://theme-plume.vuejs.press/config/plugin/markdown-power/
        */
-      // markdownPower: {
+      markdownPower: {
+        demo: true,
+        markmap: true,  // 导图插件
       //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
       //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
       //   plot: true,         // 启用隐秘文本语法 !!xxxx!!
@@ -137,7 +138,7 @@ export default defineUserConfig({
       //     kotlin: true,     // ::: kotlin-repl
       //   },
       //   imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
-      // },
+      },
 
       /**
        * 在 Markdown 文件中导入其他 markdown 文件内容。
