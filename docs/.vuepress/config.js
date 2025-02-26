@@ -1,12 +1,19 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: '上岸吧',
   description: '考公，考编知识点。',
+
+  plugins: [
+    mdEnhancePlugin({
+      // 启用 Markmap
+      markmap: true,
+    }),
+  ],
 
   head: [
     // 配置站点图标
