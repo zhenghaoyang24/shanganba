@@ -6,18 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/deps/_metadata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/rendered/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/clientConfigs.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/clientConfigs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/plugin-shiki/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/plugin-shiki/client.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/md-enhance/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/md-enhance/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/md-power/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/md-power/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/文章写作.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +146,9 @@
       <workItem from="1740562034018" duration="27000" />
       <workItem from="1740562386873" duration="15000" />
       <workItem from="1740578509590" duration="1305000" />
-      <workItem from="1740581934860" duration="675000" />
+      <workItem from="1740581934860" duration="708000" />
+      <workItem from="1740618480045" duration="61000" />
+      <workItem from="1740738659082" duration="1855000" />
     </task>
     <servers />
   </component>
