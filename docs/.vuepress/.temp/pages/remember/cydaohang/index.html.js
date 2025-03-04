@@ -1,16 +1,3 @@
 import comp from "G:/200-Project/shanganba/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.vue"
-const data = JSON.parse("{\"path\":\"/remember/cydaohang/\",\"title\":\"成语导航\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"成语导航\",\"createTime\":\"2025/02/17 19:56:15\",\"permalink\":\"/remember/cydaohang/\",\"gitInclude\":[]},\"headers\":[],\"readingTime\":{\"minutes\":1.76,\"words\":529},\"filePathRelative\":\"notes/remember/高频成语/1.成语导航.md\"}")
+const data = JSON.parse("{\"path\":\"/remember/cydaohang/\",\"title\":\"成语导航\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"成语导航\",\"createTime\":\"2025/02/17 19:56:15\",\"permalink\":\"/remember/cydaohang/\"},\"headers\":[],\"readingTime\":{\"minutes\":1.76,\"words\":529},\"git\":{\"updatedTime\":1740490935000,\"contributors\":[{\"name\":\"zhenghaoyang24\",\"username\":\"zhenghaoyang24\",\"email\":\"zhenghaoyang24@foxmail.com\",\"commits\":11,\"avatar\":\"https://avatars.githubusercontent.com/zhenghaoyang24?v=4\",\"url\":\"https://github.com/zhenghaoyang24\"}]},\"filePathRelative\":\"notes/remember/高频成语/1.成语导航.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

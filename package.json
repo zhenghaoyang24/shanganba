@@ -3,7 +3,6 @@
   "type": "module",
   "version": "1.0.0",
   "description": "考公，考编知识点。",
-  "packageManager": "pnpm@9.15.1",
   "author": "zhenghaoyang24 <zhenghaoyang24@foxmail.com>",
   "license": "MIT",
   "engines": {
