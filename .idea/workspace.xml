@@ -7,9 +7,7 @@
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/范文解析.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/范文解析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句积累.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,7 @@
       <workItem from="1741075946495" duration="4598000" />
       <workItem from="1741086694925" duration="1978000" />
       <workItem from="1741088888996" duration="7262000" />
-      <workItem from="1741138169975" duration="16193000" />
+      <workItem from="1741138169975" duration="16492000" />
     </task>
     <servers />
   </component>
