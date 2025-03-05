@@ -7,14 +7,15 @@
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/clientConfigs.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/clientConfigs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/iconify.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/iconify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/hug4k9fk/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/hug4k9fk/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/hug4k9fk/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/hug4k9fk/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/资料分析/2.题型考点.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/资料分析/2.题型考点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文积累/金句积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文积累/金句积累.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/文章写作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/md-power/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/md-power/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文积累/金句积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句积累.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +162,7 @@
       <workItem from="1741075946495" duration="4598000" />
       <workItem from="1741086694925" duration="1978000" />
       <workItem from="1741088888996" duration="7262000" />
-      <workItem from="1741138169975" duration="3669000" />
+      <workItem from="1741138169975" duration="10020000" />
     </task>
     <servers />
   </component>

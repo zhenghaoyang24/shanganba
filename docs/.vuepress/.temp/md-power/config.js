@@ -5,6 +5,7 @@ import Plot from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md
 import FileTreeItem from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md-power@1.0.0-rc.135_esbuild@0.25.0_less@4.2.2_markdown-it@14.1.0_sass-embed_sjzspqbuvrdprsero5brtfvpay/node_modules/vuepress-plugin-md-power/lib/client/components/FileTreeItem.vue'
 import VPDemoBasic from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md-power@1.0.0-rc.135_esbuild@0.25.0_less@4.2.2_markdown-it@14.1.0_sass-embed_sjzspqbuvrdprsero5brtfvpay/node_modules/vuepress-plugin-md-power/lib/client/components/VPDemoBasic.vue'
 import VPDemoNormal from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md-power@1.0.0-rc.135_esbuild@0.25.0_less@4.2.2_markdown-it@14.1.0_sass-embed_sjzspqbuvrdprsero5brtfvpay/node_modules/vuepress-plugin-md-power/lib/client/components/VPDemoNormal.vue'
+import Annotation from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md-power@1.0.0-rc.135_esbuild@0.25.0_less@4.2.2_markdown-it@14.1.0_sass-embed_sjzspqbuvrdprsero5brtfvpay/node_modules/vuepress-plugin-md-power/lib/client/components/Annotation.vue'
 
 import 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-plugin-md-power@1.0.0-rc.135_esbuild@0.25.0_less@4.2.2_markdown-it@14.1.0_sass-embed_sjzspqbuvrdprsero5brtfvpay/node_modules/vuepress-plugin-md-power/lib/client/styles/index.css'
 
@@ -16,5 +17,6 @@ export default defineClientConfig({
     app.component('FileTreeItem', FileTreeItem)
     app.component('VPDemoBasic', VPDemoBasic)
     app.component('VPDemoNormal', VPDemoNormal)
+    app.component('Annotation', Annotation)
   }
 })
