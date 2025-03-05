@@ -7,7 +7,7 @@ import * as clientConfig5 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/sa
 import * as clientConfig6 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-enhance/config.js'
 import * as clientConfig7 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/md-power/config.js'
 import * as clientConfig8 from 'G:/200-Project/shanganba/docs/.vuepress/.temp/markdown-math/config.js'
-import * as clientConfig9 from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.135_@algolia+client-search@5.20.3_less@4.2.2_markdown-it@14.1.0_zsi3t77th5jpmwruojprgjgua4/node_modules/vuepress-theme-plume/lib/client/config.js'
+import * as clientConfig9 from 'G:/200-Project/shanganba/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.135_@algolia+client-search@5.20.3_@iconify+json@2.2.313_less@4._wsqrierwkkiisq6zdlbbmhucse/node_modules/vuepress-theme-plume/lib/client/config.js'
 import * as clientConfig10 from 'G:/200-Project/shanganba/docs/.vuepress/client.js'
 
 export const clientConfigs = [

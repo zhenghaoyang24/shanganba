@@ -1,4 +1,5 @@
-export const icons = "{}"
+import './iconify.css'
+export const icons = {}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
