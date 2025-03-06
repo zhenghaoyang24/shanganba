@@ -9,18 +9,8 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cydaohang/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cysituation/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cysituation/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cything/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cything/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/1.成语导航.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/1.成语导航.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/事物发展.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/事物发展.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/处境与困难.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/处境与困难.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/文化与传承.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/文化与传承.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/规矩与创新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/规矩与创新.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/高频成语/说话做事.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/说话做事.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句与规范词.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/200-Project/shanganba",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.docs:build.executor": "Run",
-    "npm.docs:dev.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "G:\\200-Project\\shanganba\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/200-Project/shanganba&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.docs:build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.docs:dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;G:\\200-Project\\shanganba\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\200-Project\shanganba\docs\.vuepress\public" />
@@ -169,7 +159,8 @@
       <workItem from="1741088888996" duration="7262000" />
       <workItem from="1741138169975" duration="16909000" />
       <workItem from="1741160304322" duration="12000" />
-      <workItem from="1741176461813" duration="2405000" />
+      <workItem from="1741176461813" duration="3154000" />
+      <workItem from="1741245440229" duration="2659000" />
     </task>
     <servers />
   </component>
