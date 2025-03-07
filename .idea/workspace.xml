@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句与规范词.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句与规范词.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/高频成语.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/高频成语.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +161,8 @@
       <workItem from="1741160304322" duration="12000" />
       <workItem from="1741176461813" duration="3154000" />
       <workItem from="1741245440229" duration="2720000" />
-      <workItem from="1741252089229" duration="5771000" />
+      <workItem from="1741252089229" duration="5852000" />
+      <workItem from="1741330649910" duration="3207000" />
     </task>
     <servers />
   </component>
