@@ -10,7 +10,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/高频成语.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/高频成语.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/choice/判断推理/逻辑关系常识.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/判断推理/逻辑关系常识.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +163,8 @@
       <workItem from="1741245440229" duration="2720000" />
       <workItem from="1741252089229" duration="5852000" />
       <workItem from="1741330649910" duration="3207000" />
+      <workItem from="1741415387113" duration="171000" />
+      <workItem from="1741430715619" duration="118000" />
     </task>
     <servers />
   </component>
