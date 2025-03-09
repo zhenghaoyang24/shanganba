@@ -104,7 +104,13 @@ export default defineUserConfig({
        */
       markdownEnhance: {
         demo: true,
-        markmap: true,  // 导图插件
+        markmap: {
+          zoom: {
+            enable: true,
+            disableWheel: true,  // 禁用滚轮
+          },
+          pan: false  // 禁用拖拽平移
+        }
       //   chartjs: true,
       //   echarts: true,
       //   mermaid: true,
@@ -117,7 +123,6 @@ export default defineUserConfig({
        */
       markdownPower: {
         demo: true,
-        markmap: true,  // 导图插件
         annotation: true,  // 启用注释
       //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
       //   caniuse: true,      // 启用 caniuse 语法  @[caniuse](feature_name)
