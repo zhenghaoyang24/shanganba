@@ -9,7 +9,9 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/2.单一题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/2.单一题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/范文解析.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/范文解析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句与规范词.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/作文练习与积累/金句与规范词.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,8 @@
       <recent name="G:\200-Project\shanganba\docs\.vuepress\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\200-Project\shanganba\docs\notes\expound\作文练习与积累" />
+      <recent name="G:\200-Project\shanganba\docs\notes\expound" />
       <recent name="G:\200-Project\shanganba\docs\notes\remember" />
     </key>
   </component>
@@ -178,7 +182,7 @@
       <workItem from="1741597266609" duration="19000" />
       <workItem from="1741607665809" duration="2754000" />
       <workItem from="1741612148337" duration="1846000" />
-      <workItem from="1741687065694" duration="1868000" />
+      <workItem from="1741687065694" duration="3993000" />
     </task>
     <servers />
   </component>
