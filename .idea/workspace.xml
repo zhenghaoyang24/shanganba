@@ -9,14 +9,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/ezyvvrta/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/why/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/why/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/why/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/prepare/why/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/判断推理/逻辑关系常识.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/prepare/1.为什么要进入体制内.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/prepare/1.为什么要进入体制内.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/prepare/2.行测与职测的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/prepare/2.行测与职测.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/expound/2.单一题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/2.单一题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +177,8 @@
       <workItem from="1741585605034" duration="707000" />
       <workItem from="1741597266609" duration="19000" />
       <workItem from="1741607665809" duration="2754000" />
-      <workItem from="1741612148337" duration="1756000" />
+      <workItem from="1741612148337" duration="1846000" />
+      <workItem from="1741687065694" duration="1868000" />
     </task>
     <servers />
   </component>
