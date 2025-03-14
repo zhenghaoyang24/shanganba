@@ -10,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/expound/5.文章写作.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/200-Project/shanganba",
+    "last_opened_file_path": "G:/200-Project/hoey-blog-plume",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -188,7 +187,10 @@
       <workItem from="1741776023800" duration="161000" />
       <workItem from="1741777671524" duration="785000" />
       <workItem from="1741779052901" duration="11000" />
-      <workItem from="1741854421535" duration="2767000" />
+      <workItem from="1741854421535" duration="2962000" />
+      <workItem from="1741866258714" duration="288000" />
+      <workItem from="1741916195430" duration="447000" />
+      <workItem from="1741921686484" duration="8000" />
     </task>
     <servers />
   </component>
