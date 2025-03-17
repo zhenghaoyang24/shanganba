@@ -9,10 +9,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/y18glm0l/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/y18glm0l/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/y18glm0l/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/choice/y18glm0l/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/1.逻辑填空.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/1.逻辑填空.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/2.片段阅读.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/2.片段阅读.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/200-Project/shanganba&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docs:build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.docs:dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;G:\\200-Project\\shanganba\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/200-Project/shanganba",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docs:build.executor": "Run",
+    "npm.docs:dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "G:\\200-Project\\shanganba\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\200-Project\shanganba\docs\.vuepress\public" />
@@ -198,7 +195,9 @@
       <workItem from="1741922321373" duration="2187000" />
       <workItem from="1741926228092" duration="153000" />
       <workItem from="1742135049507" duration="1328000" />
-      <workItem from="1742178608837" duration="2730000" />
+      <workItem from="1742178608837" duration="2784000" />
+      <workItem from="1742185207460" duration="542000" />
+      <workItem from="1742191874539" duration="2384000" />
     </task>
     <servers />
   </component>
