@@ -7,8 +7,6 @@
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +195,7 @@
       <workItem from="1742135049507" duration="1328000" />
       <workItem from="1742178608837" duration="2784000" />
       <workItem from="1742185207460" duration="542000" />
-      <workItem from="1742191874539" duration="2384000" />
+      <workItem from="1742191874539" duration="11825000" />
     </task>
     <servers />
   </component>
