@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/themePlumeData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyculture/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/1.逻辑填空.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/1.逻辑填空.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/3.语句表达.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/2.言语理解/3.语句表达.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/1.成语导航.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/1.成语导航.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/文化与传承.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/文化相关.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/200-Project/shanganba",
+    "last_opened_file_path": "G:/200-Project/hoey-blog-plume",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -205,7 +193,9 @@
       <workItem from="1742135049507" duration="1328000" />
       <workItem from="1742178608837" duration="2784000" />
       <workItem from="1742185207460" duration="542000" />
-      <workItem from="1742191874539" duration="18165000" />
+      <workItem from="1742191874539" duration="18254000" />
+      <workItem from="1742222752742" duration="52000" />
+      <workItem from="1742265122624" duration="11000" />
     </task>
     <servers />
   </component>

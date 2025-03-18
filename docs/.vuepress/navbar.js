@@ -19,7 +19,7 @@ export const navbar = defineNavbarConfig([
     {
         text: '考前比记',
         items: [
-            {text: '高频成语', link: '/remember/idiom/cydaohang/'},
+            {text: '高频成语', link: '/remember/idiom/'},
             {text: '政治理论', link: '/remember/political/'}
         ],
         activeMatch: '^/remember/',
