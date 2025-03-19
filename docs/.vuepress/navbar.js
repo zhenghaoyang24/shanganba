@@ -17,6 +17,11 @@ export const navbar = defineNavbarConfig([
         activeMatch: '^/expound/',
     },
     {
+        text: '综合应用',
+        link: '/comprehensive/introduction/',
+        activeMatch: '^/comprehensive/',
+    },
+    {
         text: '考前比记',
         items: [
             {text: '高频成语', link: '/remember/idiom/'},
