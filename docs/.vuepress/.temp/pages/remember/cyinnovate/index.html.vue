@@ -1,17 +1,32 @@
-<template><div><h3 id="陈陈相因" tabindex="-1"><a class="header-anchor" href="#陈陈相因"><span>陈陈相因</span></a></h3>
+<template><div><h2 id="创新" tabindex="-1"><a class="header-anchor" href="#创新"><span>创新</span></a></h2>
+<h3 id="推陈出新" tabindex="-1"><a class="header-anchor" href="#推陈出新"><span>推陈出新</span></a></h3>
+<p>推去旧的，<strong>产生新的</strong>。** 后多指在文化艺术方面去掉旧的糟粕，吸取其精华，创造出新的来。</p>
+<h3 id="吐故纳新" tabindex="-1"><a class="header-anchor" href="#吐故纳新"><span>吐故纳新</span></a></h3>
+<p>比喻扬弃旧的，<strong>吸收新的</strong>。<strong>（多形容事物在发展中呈现新的面貌）</strong></p>
+<h3 id="除旧布新" tabindex="-1"><a class="header-anchor" href="#除旧布新"><span>除旧布新</span></a></h3>
+<p>意思是清除旧的，建立新的；以新的代替旧的，<strong>旧事物被完全取代</strong>。</p>
+<h3 id="革故鼎新" tabindex="-1"><a class="header-anchor" href="#革故鼎新"><span>革故鼎新</span></a></h3>
+<p>革：除去。鼎新：立新。<br>
+指革除旧的，建立新的。<strong>多指改朝换代或重大变革。（多政治角度）</strong></p>
+<h3 id="弃旧图新" tabindex="-1"><a class="header-anchor" href="#弃旧图新"><span>弃旧图新</span></a></h3>
+<p>意思是抛弃旧的，<strong>谋求新的</strong>。多指由坏的转向好的，离开错误的道路走向正确的道路。</p>
+<h3 id="去芜存菁" tabindex="-1"><a class="header-anchor" href="#去芜存菁"><span>去芜存菁</span></a></h3>
+<p>意思是除去杂质、保留精华。</p>
+<h2 id="独特的创新" tabindex="-1"><a class="header-anchor" href="#独特的创新"><span>独特的创新</span></a></h2>
+<h3 id="陈陈相因" tabindex="-1"><a class="header-anchor" href="#陈陈相因"><span>陈陈相因</span></a></h3>
 <p>粮仓里的米谷一年接一年地堆积起来。比喻<mark>沿袭老一套，没有改进</mark>。</p>
 <p><em>例句：</em> 延续民族文化血脉并不等于<strong>陈陈相因</strong>、泥古守旧，而是要与时俱进、推陈出新，让中华优秀传
 统文化焕发出勃勃生机。</p>
 <hr>
-<h3 id="推陈出新" tabindex="-1"><a class="header-anchor" href="#推陈出新"><span>推陈出新</span></a></h3>
+<h3 id="推陈出新-1" tabindex="-1"><a class="header-anchor" href="#推陈出新-1"><span>推陈出新</span></a></h3>
 <p>推去旧的，产生新的。后多指在文化艺术方面去掉旧的糟粕，<mark>吸取其精华，创造出新的来</mark>。<strong>（多形容文化但不绝对）</strong></p>
 <p><em>例句：</em> 我们研究历史不是为了复古，而是要借鉴历史、<strong>推陈出新</strong>。</p>
 <hr>
-<h3 id="吐故纳新" tabindex="-1"><a class="header-anchor" href="#吐故纳新"><span>吐故纳新</span></a></h3>
+<h3 id="吐故纳新-1" tabindex="-1"><a class="header-anchor" href="#吐故纳新-1"><span>吐故纳新</span></a></h3>
 <p>比喻<mark>扬弃旧的，吸收新的</mark>。<strong>（多形容事物在发展中呈现新的面貌）</strong></p>
 <p><em>例句：</em> 把政策、文化、科技、卫生、信息送下乡，让美丽乡村<strong>吐故纳新</strong>，呈现出新时代新农村应有的新气象。</p>
 <hr>
-<h3 id="革故鼎新" tabindex="-1"><a class="header-anchor" href="#革故鼎新"><span>革故鼎新</span></a></h3>
+<h3 id="革故鼎新-1" tabindex="-1"><a class="header-anchor" href="#革故鼎新-1"><span>革故鼎新</span></a></h3>
 <p>革：除去。鼎新：立新。指<mark>革除旧的，建立新</mark>的。<strong>多指改朝换代或重大变革</strong>。（多政治角度）</p>
 <p><em>例句：</em> 教育家精神蕴含着“求是创新”的鲜明导向，体现<strong>革故鼎新</strong>、与时俱进的精神追求。</p>
 <hr>
