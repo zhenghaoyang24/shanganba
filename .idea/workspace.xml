@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2723931e-fb97-4c78-ba9b-fd1be39ce277" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/comprehensive/综合应用C/作文.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/comprehensive/综合应用C/作文.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +203,8 @@
       <workItem from="1742462973169" duration="54000" />
       <workItem from="1742471353389" duration="3181000" />
       <workItem from="1742564206979" duration="1631000" />
+      <workItem from="1742622384729" duration="1068000" />
+      <workItem from="1742634313405" duration="1333000" />
     </task>
     <servers />
   </component>
