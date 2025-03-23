@@ -9,10 +9,10 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.cache/markdown/auto-frontmatter.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/pages/remember/cyinnovate/index.html.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/文化相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/文化相关.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/规矩与创新.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/规矩与创新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/choice/判断推理/4.逻辑判断.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/判断推理/4.逻辑判断.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/说话做事.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/说话做事.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,24 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/200-Project/shanganba&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docs:build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.docs:dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;G:\\200-Project\\shanganba\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/200-Project/shanganba",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docs:build.executor": "Run",
+    "npm.docs:dev.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "G:\\200-Project\\shanganba\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\200-Project\shanganba\docs\.vuepress\public" />
@@ -211,7 +211,9 @@
       <workItem from="1742564206979" duration="1631000" />
       <workItem from="1742622384729" duration="1068000" />
       <workItem from="1742634313405" duration="1979000" />
-      <workItem from="1742649365517" duration="1907000" />
+      <workItem from="1742649365517" duration="1956000" />
+      <workItem from="1742700278662" duration="12000" />
+      <workItem from="1742723239921" duration="9425000" />
     </task>
     <servers />
   </component>
