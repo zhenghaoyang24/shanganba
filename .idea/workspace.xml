@@ -10,10 +10,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/minisearchIndex/searchBox-default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/.temp/internal/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/判断推理/3.类比推理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/判断推理/3.类比推理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/choice/判断推理/4.逻辑判断.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/choice/判断推理/4.逻辑判断.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/成语积累.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/notes/remember/成语与词语/词语辨析.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/remember/成语与词语/词语辨析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/comprehensive/综合应用C/作文.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/notes/comprehensive/综合应用C/作文.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/200-Project/shanganba&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/200-Project/vuepress-theme-plume&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -215,7 +212,8 @@
       <workItem from="1742649365517" duration="1956000" />
       <workItem from="1742700278662" duration="12000" />
       <workItem from="1742723239921" duration="9534000" />
-      <workItem from="1742801068484" duration="3487000" />
+      <workItem from="1742801068484" duration="3669000" />
+      <workItem from="1742870880277" duration="2164000" />
     </task>
     <servers />
   </component>
